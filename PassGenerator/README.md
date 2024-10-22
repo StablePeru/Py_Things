@@ -25,7 +25,7 @@ A simple, user-friendly password generator built using PyQt5 and Python. This ap
 Clone the repository:
 
 ```sh
-git clone https://github.com/yourusername/password-generator-app.git
+git clone https://github.com/StablePeru/Py_Things/tree/main/PassGenerator.git
 ```
 
 Change directory to the project folder:
