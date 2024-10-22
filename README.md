@@ -4,11 +4,11 @@ Welcome to my Python Projects Portfolio! This repository is a growing collection
 
 ### Current Projects:
 
-1. [**diceAPP**](./diceAPP): A simple but visually appealing dice simulator. It's perfect for times when you need a quick and reliable way to roll a die, whether for a board game or just for fun.
+1. [**diceAPP**](./diceAPP): A simple dice simulator built with a visually appealing interface using PyQt5. It features an animated rolling effect and a history log of results, making it fun and engaging to use. Ideal for quick dice rolls in board games or casual fun.
 
-2. [**PassGenerator**](./PassGenerator): A customizable password generator that helps create strong and secure passwords. Security is a priority, and this project aims to make generating secure credentials easy and intuitive.
+2. [**PassGenerator**](./PassGenerator): A customizable password generator with an easy-to-use graphical interface built in PyQt5. It allows you to generate strong passwords with options for length, uppercase letters, numbers, and symbols. You can also save passwords to an Excel file and view them later. Security and convenience combined.
 
-3. [**WordSearcher**](./WordSearcher): A handy tool for searching specific words within text files. This can be used for quickly finding keywords or phrases in large documents.
+3. [**WordSearcher**](./WordSearcher): A versatile tool for searching specific words or phrases in various file formats, including .txt, .docx, and .pdf files. With a user-friendly interface, it supports folder selection, progress tracking, and exporting search results, making it perfect for quickly finding content in large document collections.
 
 ### What's Next?
 
