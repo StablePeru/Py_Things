@@ -80,11 +80,11 @@ python password_generator.py
 
 ### Main Interface
 
-(Include a screenshot of the main interface here.)
+![image](https://github.com/user-attachments/assets/da392fc6-9db5-4751-88c9-25e7c960f473)
 
 ### Saved Passwords
 
-(Include a screenshot of the saved passwords table here.)
+![image](https://github.com/user-attachments/assets/658ac07e-3e4c-4890-9946-4d5d3f7e3e9c)
 
 ## Requirements
 
